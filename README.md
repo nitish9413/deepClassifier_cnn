@@ -15,4 +15,4 @@
 10. Update the dvc.yaml
 11. run 'dvc repro' for running all the stages in pipeline
 
-![]("./docs/images/Data Ingestion@2x 1.png")
+![]("https://github.com/nitish9413/deepClassifier_cnn/blob/2f095591601372901321eabe47a723f8a66b4108/docs/images/Data%20Ingestion@2x%201.png")
