@@ -15,4 +15,4 @@
 10. Update the dvc.yaml
 11. run 'dvc repro' for running all the stages in pipeline
 
-![]("./docs/images/Data Ingestion@2x 1.jpg")
+![]("./docs/images/Data Ingestion@2x 1.png")
