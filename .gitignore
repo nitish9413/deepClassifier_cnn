@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 
 deepclassifier_cnn
-artifacts
+.vscode/
+*.jpg
+*.zip
